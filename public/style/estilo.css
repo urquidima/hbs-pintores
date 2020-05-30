@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://staticr1.blastingcdn.com/media/photogallery/2017/4/9/660x290/b_1200x675/las-rivalidades-artisticas-son-una-constante-de-la-historia-del-arte_1262331.jpg);
+}
+
+table{
+    width: 100%;
+    font-size: 100%;
+    margin: auto;
+}
+
+h1 {
+    background: linear-gradient(white,yellow);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+  }
+
+a, h2{
+    color: white;
+    font-size: 100%;
+}
+
+h3{
+    font-size: 200%;
+}
+footer{
+    font-size: 200%;
+    color: white;
+}
